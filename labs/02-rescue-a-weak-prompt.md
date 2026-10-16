@@ -7,7 +7,7 @@
 
 Diagnose what's missing from three weak prompts, rebuild one with the prompt
 brief, and prove the rebuild is better. Then write the first version of a
-prompt for your own idea.
+prompt for a task from your own work.
 
 ## What you need
 
@@ -42,16 +42,17 @@ prompt for your own idea.
 
    Answer from the case. What did it ask that you hadn't thought to include?
 
-5. **Version 1 of your own prompt (5 min, individually).** Take the idea you
-   named this morning. Write a prompt for one useful task on it (for example,
-   *who my first ten customers might be*, or *the three questions I should
-   answer first*), using all six parts. **Don't run it yet.** Save it in your
-   prompt log; you'll use it after lunch.
+5. **Version 1 of your own prompt (5 min, individually).** Take the task you
+   named this morning. Write a prompt for it using all six parts (for example,
+   *draft this week's update to my team*, *summarize what customers complained
+   about*, or *list the three questions I should answer before launching*).
+   Describe anything sensitive in general terms. **Don't run it yet.** Save it
+   in your prompt log; you'll use it after lunch.
 
 ## You're done when
 
 You have a weak/rebuilt output pair with three improvements labelled by brief
-part, and a saved v1 prompt for your own idea.
+part, and a saved v1 prompt for your own task.
 
 ## If you finish early
 
@@ -77,5 +78,5 @@ the output as much as adding context did?
   is done?"
 - **The early-finisher task** usually shows that the role line matters much less
   than context and format. Collect one example for the debrief.
-- **While circulating,** check that step 5 prompts are about a real idea and
+- **While circulating,** check that step 5 prompts are about a real task and
   contain nothing confidential.

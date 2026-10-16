@@ -6,8 +6,8 @@ Objective: none new — evidence for LO1–LO4
 
 ## Purpose
 
-Show what was learned using participants' own templates as evidence, send
-people home with a next step, and collect feedback while it's fresh. The
+Show what was learned using participants' own use cases as evidence, send
+people home with a pilot to run, and collect feedback while it's fresh. The
 10-minute buffer is real: it absorbs overruns from earlier modules. If nothing
 ran over, use it for Q&A.
 
@@ -15,18 +15,18 @@ ran over, use it for Q&A.
 
 | Min | Segment | What happens | Who's talking |
 | --- | --- | --- | --- |
-| 0–10 | Share-outs | Pairs, 60 seconds each: one template, the one change that helped most, and the "don't use this for" line. With more than 8 pairs, pick 5 at random; everyone else's are in the shared document | Participants |
-| 10–15 | Close | Back to the opening slide: the four things you can now do. **Your next step:** use your template on real work within a week, then improve one thing. Where to go next | Instructor |
+| 0–10 | Pitches | Pairs, 60 seconds each, pitching one canvas as if to the person who'd approve it: the task, hours saved per month, the biggest risk and its check, the pilot. With more than 8 pairs, pick 5 at random; everyone else's are in the shared document | Participants |
+| 10–15 | Close | Back to the opening slide: the four things you can now do. **Your next step:** start the two-week pilot on your canvas, then keep, adjust, or drop it. Where to go next | Instructor |
 | 15–20 | Post-check + exit ticket | Same 5 questions as the morning; 3-question exit ticket | Participants |
 | 20–30 | Buffer / Q&A | Absorbs earlier overruns; otherwise open Q&A | Everyone |
 
 ## Key points
 
-1. You leave with a tested template, a one-page reference, and everyone else's
-   templates in the shared document.
-2. Use the template on real work within a week, while you remember how.
-3. The habits that matter most: brief it fully, verify what matters, change one
-   thing at a time.
+1. You leave with a tested template, a use-case plan, a one-page reference,
+   and everyone else's canvases in the shared document.
+2. Start your pilot within a week, while you remember how, and measure it.
+3. The habits that matter most: brief it fully, check before you rely on it,
+   know your data rules, change one thing at a time.
 
 ## Materials
 
@@ -41,14 +41,15 @@ ran over, use it for Q&A.
 
 | Problem | Response |
 | --- | --- |
-| Share-outs run long | Visible 60-second timer; cut off kindly |
-| People leave early | Run the post-check and exit ticket *before* share-outs if the room is visibly emptying |
-| A share-out turns into "which tool is best?" | "Whichever one you'll actually use. The template works in all of them. Try it" |
+| Pitches run long | Visible 60-second timer; cut off kindly |
+| People leave early | Run the post-check and exit ticket *before* the pitches if the room is visibly emptying |
+| A pitch turns into "which tool is best?" | "Whichever one you're allowed to use. The template works in all of them" |
+| A pitch claims huge time savings | Ask, warmly: "Including the time to check it?" It's a good closing lesson for the whole room |
 
 ## If running behind
 
 The buffer is there for this. If it's gone:
 
-1. Cut share-outs to 3 volunteer pairs (saves ~5 min)
+1. Cut pitches to 3 volunteer pairs (saves ~5 min)
 2. Never cut the post-check or exit ticket. They're the only evidence the day
    worked

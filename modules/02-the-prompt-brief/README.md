@@ -68,7 +68,7 @@ Two points to make explicitly:
 | Prompts get very long and people worry that's wrong | Long is fine when every line is information. Cut adjectives, not facts |
 | "Isn't this just for ChatGPT?" | The brief works on every major assistant. Some tools respond better to some parts, but none ignore context |
 | Pairs rebuild prompt A (the easiest) | Fine, but ask them to try diagnosing C in the debrief |
-| Step 5 (own idea) runs over into lunch | Stop at 11:50. Participants finish v1 at the start of Lab 03 step 1 |
+| Step 5 (own task) runs over into lunch | Stop at 11:50. Participants can finish v1 in the afternoon; Labs 03 and 04 build on it |
 
 ## If running behind
 

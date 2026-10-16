@@ -1,7 +1,8 @@
 # Practice Case — Loop Laundry
 
 *A fictional business for practice. Every name and number below is invented.
-Use it for Labs 01 and 02, so everyone in the room works from the same facts.*
+Use it in Labs 01 and 02, and in the Lab 03 analysis and communication tracks,
+so everyone works from the same facts.*
 
 ---
 
@@ -12,8 +13,8 @@ steadily.
 
 **The numbers (last 12 months, invented).**
 
-- Revenue: $310,000. About 80% self-service, 20% wash-and-fold
-- Wash-and-fold: about 140 orders a week, average $28 per order
+- Revenue: about $310,000. About 80% self-service, 20% wash-and-fold
+- Wash-and-fold: about 45 orders a week, average $28 per order, growing month on month
 - Busiest hours: weekday evenings and weekend mornings; weekday 10:00–15:00 is
   quiet
 - Two new apartment complexes (about 600 units in total) opened within a mile
@@ -39,4 +40,5 @@ and whether delivery logistics can work without a full-time driver.
 
 *For instructors: the case is deliberately incomplete. There are no competitor
 names, local prices, or market-size figures, so a model that "provides" them is
-inventing them. That's the point of Lab 01, step 4.*
+inventing them. That's the point of Lab 01, step 3. The sample data and the
+customer email for Lab 03 are in [practice-data.md](practice-data.md).*

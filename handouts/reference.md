@@ -1,4 +1,4 @@
-# AI Prompting for Innovators — One-Page Reference
+# AI at Work for Innovators — One-Page Reference
 
 ## How it works, in three lines
 
@@ -7,6 +7,15 @@
   biggest lever.
 - It sounds equally confident when it's **making things up**. Check numbers,
   names, quotes, and anything recent.
+
+## Where it fits
+
+Before handing over a task, ask: **How bad is it if this is wrong?** and
+**What data would I have to give it?**
+
+| Good fit | Use with care | Not for AI alone |
+| --- | --- | --- |
+| Drafting, summarizing, reformatting, brainstorming, explaining | Analysis of your data, customer replies, summaries of sensitive documents | Decisions about people, legal/tax/financial specifics, checking whether something is true |
 
 ## The prompt brief
 
@@ -24,19 +33,13 @@ Brief it like a capable new hire on their first day.
 **Not sure what to include?** End with: *"Before you answer, ask me up to five
 questions you need answered to do this well."*
 
-## Five moves for pressure-testing an idea
+## Ground → ask → check
 
-Run them as a chain in one conversation.
-
-1. **Ground:** paste your brief; *"Confirm in three bullets. No advice yet."*
-2. **Diverge:** *"12 variations. Vary at least two of: customer, price,
-   channel, scale. Make three seem wrong at first."*
-3. **Simulate:** *"Play three different customers, including why they wouldn't
-   buy."* → **Hypotheses, not evidence.** Take the questions to real people.
-4. **Pre-mortem:** *"It's 18 months later and this failed. Five reasons,
-   ranked, with an early warning sign for each."*
-5. **Verify:** *"List every factual claim you made. Label: known / likely /
-   guess."* Then check the ones your decision rests on.
+| | Analyze | Communicate | Innovate |
+| --- | --- | --- | --- |
+| **Ground** | Paste the data; *"Describe it. Don't analyze yet."* | Paste the situation; *"Summarize the issue. Don't reply yet."* | Paste your brief; *"Confirm in three bullets."* |
+| **Ask** | The story → the numbers, working shown | Full brief → *"Read it as the recipient"* → adapt for each audience | *"12 variations, vary two of…"* → skeptical customers → pre-mortem |
+| **Check** | Recompute the numbers that matter | Every promise, fact, and amount: would you sign it? | Verify key claims; take objections to real people |
 
 ## Making a prompt better
 
@@ -56,9 +59,9 @@ CHECK BEFORE USING THE OUTPUT: [your yes/no criteria]
 
 ## Red lines
 
-- **Nothing confidential** in a tool you haven't been cleared to use: client
-  data, personal data, unreleased financials, NDA material.
-- **Simulated customers, investors, or experts aren't research.**
-- **Legal, financial, medical, and safety questions:** use it to prepare
-  better questions for a professional, not to replace one.
-- **You own the decision.** It drafts and challenges; you decide.
+- **Know your data rules.** Nothing confidential, client, or personal in a tool
+  your organization hasn't approved for it.
+- **If it goes out under your name, you checked it.**
+- **Simulated customers aren't research.** They give you questions to ask.
+- **Legal, tax, financial, HR decisions:** use AI to prepare better questions
+  for a professional, not to replace one.

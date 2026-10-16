@@ -4,47 +4,50 @@ Status: draft — working title and copy for review
 
 ## Working title
 
-**AI Prompting for Innovators**
-*A one-day, hands-on course for entrepreneurs, professionals, and anyone with
-an idea to move forward*
+**AI at Work for Innovators**
+*A one-day, hands-on business course for entrepreneurs, enthusiasts, and anyone
+looking to work smarter with AI*
 
 ## Catalog copy
 
-You've probably already used an AI chat assistant, and you've probably had it
-give you something generic, wrong, or not quite what you meant. This one-day
-course teaches you to get consistently useful work out of tools like ChatGPT,
-Claude, Gemini, and Copilot, and to apply them to the work innovators actually
-do: exploring ideas, understanding customers, stress-testing plans, and drafting
-the documents that move a project forward.
+AI assistants are already built into the tools many of us use every day, but
+most people use them for a few quick questions and stop when the answers come
+back generic or wrong. This one-day course shows you how to put AI to work on
+real business tasks: analyzing information, writing for customers and
+colleagues, and developing and stress-testing ideas. It also covers how to
+decide where AI fits in your work, and where it doesn't.
 
 The day is hands-on. You'll spend about three-quarters of it at the keyboard,
-first on a shared practice case and then on **an idea or challenge of your
-own**. You leave with a tested, reusable prompt kit for work you do again and
-again, and a clear sense of where AI helps and where it misleads.
+first on a shared business case and then on **a task or process from your own
+work**. You leave with a tested, reusable prompt template and a one-page plan
+for an AI use case you can pilot next week, with the time it saves, the risks,
+and the checks it needs.
 
-**Who it's for:** entrepreneurs, founders, intrapreneurs, product and business
-professionals, and curious enthusiasts. No technical background or coding is
-needed. Some experience with an AI chat tool helps but is not required.
+**Who it's for:** entrepreneurs, small-business owners, professionals in any
+function, and curious enthusiasts. No technical background or coding is needed.
+Some experience with an AI chat tool helps but isn't required.
 
 **Bring:** a laptop, a free account on at least one AI chat assistant, and one
-idea, venture, or work problem you'd like to make progress on. Don't bring
+recurring task, business process, or idea you'd like to improve. Don't bring
 anything confidential.
 
 ## What you'll be able to do
 
-1. Explain why an AI assistant gave the answer it did, and spot answers that
-   sound confident but may be invented.
+1. Explain how AI assistants produce their answers, and sort your work into
+   tasks AI handles well, tasks it handles with care, and tasks it shouldn't
+   do.
 2. Write a prompt that states the goal, context, audience, constraints, and
    format, and diagnose what's missing from a weak one.
-3. Use AI to generate, challenge, and pressure-test an idea, and verify the
-   claims it makes along the way.
-4. Test a prompt against criteria you set in advance, improve it step by step,
-   and turn it into a reusable template.
+3. Use AI for analysis, business writing, and idea development, and check its
+   output before you rely on it.
+4. Design and test an AI use case for a recurring task, with a reusable
+   template and a one-page plan covering value, risk, and data handling.
 
 ## What this course is not
 
-- Not a course on building AI products, coding, APIs, or automation platforms.
-- Not a tour of every AI tool on the market. Everything taught works on any
-  major chat assistant, including free tiers.
-- Not a substitute for real customer research, or for legal, financial, or
-  medical advice.
+- Not a technical course: no coding, APIs, model building, or automation
+  platforms.
+- Not a buyer's guide to AI vendors. Everything taught works on any major chat
+  assistant, including free tiers.
+- Not legal or compliance training. We cover the questions to ask about data
+  and policy, not the answers for your organization.

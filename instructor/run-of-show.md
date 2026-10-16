@@ -6,26 +6,27 @@ wins. Fix this file.
 
 | Clock | Do | Watch for |
 | --- | --- | --- |
-| 8:15 | Arrive. Projector, audio, Wi-Fi. Log in to **two** AI tools for the Module 01 hook. Welcome slide up | Wi-Fi details and the data rule visible |
+| 8:15 | Arrive. Projector, audio, Wi-Fi. Log in to **two** AI tools for the Module 01 hook. Welcome slide up | Wi-Fi details and the data-and-policy rule visible |
 | 8:45 | Doors open. Greet people; hand out index cards | Who has no AI account yet. Help them now |
 | **9:00** | **Start on time.** Module 00 | Don't wait for latecomers |
 | 9:08 | Pre-check | Everyone has a code word |
-| 9:13 | Pairs + idea in one sentence | Anyone without an idea gets the fallback list |
+| 9:13 | Pairs + one work task each on a card | Anyone stuck gets the fallback task list |
 | 9:18 | Tech check: everyone sends "hello" | Hands up = pair them now, fix at the break |
-| **9:20** | Module 01: live hook in two tools | |
-| 9:40 | Lab 01 starts (30 min) | Step 4: listen for "it's wrong" vs. "it didn't know" |
+| **9:20** | Module 01: live hook in two tools; four ideas | |
+| 9:40 | Lab 01 starts (30 min) | Step 3: listen for "it's wrong" vs. "it didn't know". Step 4: note disagreements for the debrief |
 | **10:20** | **Break (15).** Fix logins now | |
 | **10:35** | Module 02: hook, six parts, live rebuild. Hand out the reference sheet | Pace. This is where the day runs long |
 | 11:00 | Lab 02 starts (35 min) | Pairs rebuilding without a format line |
 | **11:50** | **Lunch (60).** End on time even mid-debrief | |
-| **12:50** | Module 03: re-entry question first | Low energy. Keep talk under 15 minutes |
-| 13:05 | Lab 03 starts (50 min) | Confidential details in briefs; "customers loved it" |
-| **14:05** | **Break (15).** Put the capstone brief on every table | |
-| **14:20** | Module 04: criteria first, one change, template format (10 min) | |
-| 14:30 | Capstone work (55 min) | Vague criteria; changing several things per round |
-| 15:25 | "Five minutes. Post your template and pick one to show" | |
-| **15:30** | Module 05: share-outs (visible 60-second timer) | |
-| 15:40 | Close: next step within a week | |
+| **12:50** | Module 03: re-entry question; three kinds of business work | Low energy. Keep talk under 15 minutes |
+| 13:05 | Lab 03 starts: track choice (50 min) | Real company data being pasted; Track A math errors worth sharing |
+| **14:05** | **Break (15).** Put the capstone brief and canvases out | |
+| **14:20** | Module 04: four points, example canvas (10 min) | |
+| 14:30 | Capstone work (55 min) | Vague criteria; several changes per round; one-off tasks |
+| 15:18 | "Canvas time. Partner swap in seven minutes" | |
+| 15:25 | "Post your canvas and pick one to pitch" | |
+| **15:30** | Module 05: pitches (visible 60-second timer) | |
+| 15:40 | Close: start your pilot this week | |
 | 15:45 | Post-check + exit ticket | Collect before anyone leaves |
 | 15:50 | Buffer / Q&A | |
 | **16:00** | **End on time** | |
@@ -46,6 +47,7 @@ list. Don't push the next block.
 
 - "Plausible isn't the same as true."
 - "It only knows what you've told it."
-- "Simulated customers give you questions, not answers."
+- "How bad is it if this is wrong, and what data would you have to give it?"
+- "If it goes out under your name, you checked it."
 - "What did you change? Just one thing?"
-- "Which tool is best? The one you'll use. The brief works in all of them."
+- "Including the time to check it?"

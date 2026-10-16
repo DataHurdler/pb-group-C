@@ -21,7 +21,17 @@ the best way to treat this?
 - C. Use it if you're on a paid version of the tool
 - D. Ignore it. AI can't handle numbers
 
-**2.** Which change to *"Write a pitch for my app"* is most likely to improve the
+**2.** A colleague wants to use a free AI chatbot to summarize a client's
+contract before a meeting. Your company hasn't said anything about AI tools.
+What's the best advice?
+
+- A. Go ahead. The summary will save time
+- B. Go ahead, but delete the chat afterwards
+- C. Check whether the contract is confidential and what the company allows
+  before pasting it in; otherwise summarize from general, non-identifying details
+- D. Never use AI for anything involving clients
+
+**3.** Which change to *"Write a pitch for my app"* is most likely to improve the
 result?
 
 - A. Starting with "You are a world-class pitch expert"
@@ -29,23 +39,15 @@ result?
 - C. Adding "Please be detailed and thorough"
 - D. Sending the same prompt three times and picking the best
 
-**3.** The output is accurate and useful, but it's six paragraphs when you
-needed a short table to paste into a slide. Which part of the prompt was most
-likely missing?
+**4.** You paste a year of monthly sales into an AI assistant. It says revenue
+grew 18% and that the growth was caused by your new website. What's the best
+next step?
 
-- A. Goal
-- B. Context
-- C. Format
-- D. Audience
-
-**4.** You ask for ten different business-model ideas, but they're all
-variations on the same one. What's the best next prompt?
-
-- A. "Be more creative."
-- B. "Vary the customer, pricing, and channel. Each idea must differ from the
-  others on at least two of these, and include some that seem wrong at first."
-- C. Switch to a different AI tool and ask the same thing
-- D. "Give me 20 instead."
+- A. Put both findings in your report. It analyzed the actual data
+- B. Recalculate the 18% yourself, and treat "caused by the website" as a
+  hypothesis the data alone can't confirm
+- C. Ask it the same question again to see if it gives the same answer
+- D. Discard both. AI can't analyze data
 
 **5.** You changed a prompt's audience, length limit, and example all at once,
 and the output improved. What's the main problem?
@@ -63,15 +65,15 @@ and the output improved. What's the main problem?
 | # | Objective | Answer | Why the wrong options are tempting |
 | --- | --- | --- | --- |
 | 1 | LO1 | B | A: a named source *feels* like evidence, but models can produce real-sounding sources that don't support the figure. C: paid tiers are better but still invent |
-| 2 | LO2 | B | A is the most common habit in the wild; a role line adds tone, not facts |
-| 3 | LO2 | C | B and D seem plausible, but the content was fine. Only the shape was wrong |
-| 4 | LO3 | B | A and D feel like the obvious fix but produce more of the same |
+| 2 | LO1 | C | A is the most common behaviour in practice. B sounds responsible but doesn't undo sharing the data. D is overcautious and unhelpful |
+| 3 | LO2 | B | A is the most common habit in the wild; a role line adds tone, not facts |
+| 4 | LO3 | B | A: "it used my data" feels like accuracy, but arithmetic and causal claims still need checking. C: consistency isn't correctness |
 | 5 | LO4 | B | A is how most people iterate. C reflects a common misunderstanding of how chat memory works |
 
 ## Reading the results
 
 - Compare the share correct per item, pre vs. post.
 - An item most people get right in the **pre**-check is too easy; replace it.
-  Item 2 is the most likely candidate with an enthusiast audience.
+  Item 3 is the most likely candidate with an enthusiast audience.
 - An item that stays low in the **post**-check points to the module that needs
   rework.

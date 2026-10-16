@@ -1,8 +1,8 @@
-# AI Prompting for Innovators
+# AI at Work for Innovators
 
 Design and delivery materials for a **6-hour, single-day, hands-on course on
-AI prompting** for enthusiast entrepreneurs, professionals, and anyone seeking
-to innovate. No technical background assumed.
+using AI in the workplace**, with a business focus, for entrepreneurs,
+enthusiasts, and anyone seeking to innovate. No technical background assumed.
 
 > **Status: first full draft.** Timing, modules, labs, handouts, and assessment
 > are written. Objectives and the working title await review. See
@@ -10,12 +10,14 @@ to innovate. No technical background assumed.
 
 ## The day in one paragraph
 
-Participants learn how AI chat assistants actually produce answers, how to
-brief them properly, and how to use them on the work innovators do: generating
-options, anticipating customer objections, finding holes in a plan, and
-checking facts. The morning uses a shared practice case in pairs, so the room
-can compare prompts. The afternoon moves to each participant's own idea. Everyone
-leaves with a tested, reusable prompt template and a one-page reference.
+Participants learn how AI assistants actually produce answers and where they
+fit in business work, how to brief them properly, and how to use them on three
+kinds of everyday work: analyzing information, communicating, and developing
+ideas, checking the output each time. The morning uses a shared business case
+in pairs, so the room can compare approaches. The afternoon moves to each
+participant's own work. Everyone leaves with a tested prompt template and a
+one-page plan to pilot an AI use case, covering time saved, risks, and data
+handling.
 
 ## Start here
 
@@ -37,10 +39,10 @@ leaves with a tested, reusable prompt template and a one-page reference.
 | Time | Module | Lab | Objective |
 | --- | --- | --- | --- |
 | 9:00 | [00 Orientation](modules/00-orientation/) | — | — |
-| 9:20 | [01 How AI chat actually works](modules/01-how-ai-chat-works/) | [Same question, different answers](labs/01-same-question-different-answers.md) | LO1 |
+| 9:20 | [01 How AI works, and where it fits at work](modules/01-how-ai-works-at-work/) | [Same question, different answers](labs/01-same-question-different-answers.md) | LO1 |
 | 10:35 | [02 The prompt brief](modules/02-the-prompt-brief/) | [Rescue a weak prompt](labs/02-rescue-a-weak-prompt.md) | LO2 |
-| 12:50 | [03 Pressure-testing ideas](modules/03-pressure-testing-ideas/) | [Pressure-test your idea](labs/03-pressure-test-your-idea.md) | LO3 |
-| 14:20 | [04 Capstone: your prompt kit](modules/04-capstone-prompt-kit/) | [Build your prompt kit](labs/04-build-your-prompt-kit.md) | LO4 |
+| 12:50 | [03 AI for everyday business tasks](modules/03-ai-for-business-tasks/) | [Put AI to work](labs/03-put-ai-to-work.md) (analyze / communicate / innovate) | LO3 |
+| 14:20 | [04 Capstone: your AI use case](modules/04-capstone-ai-use-case/) | [Design your AI use case](labs/04-design-your-ai-use-case.md) | LO4 |
 | 15:30 | [05 Wrap-up](modules/05-wrap-up/) | — | — |
 
 ## Layout
@@ -48,8 +50,8 @@ leaves with a tested, reusable prompt template and a one-page reference.
 ```
 course-plan/   Description, objectives, agenda, open questions
 modules/       One folder per teaching block (outline + teaching notes)
-labs/          Participant-facing exercises and the shared practice case
-handouts/      One-page reference, prompt log, capstone brief
+labs/          Participant-facing exercises, the practice case, and sample data
+handouts/      Reference sheet, use-case canvas, prompt log, capstone brief
 assessment/    Pre/post check and exit ticket
 instructor/    Run of show, prep checklist, contingency plans
 templates/     Module and lab templates. Copy, don't edit in place
@@ -65,7 +67,9 @@ Defaults, not decisions. Change them in
 2. **In person, one instructor, 12–30 participants**, working in pairs.
 3. **Participants use their own free AI accounts**, on any major assistant.
    Every lab is tool-agnostic and keeps pastes under one page.
-4. **About three-quarters hands-on.** 83 minutes of lecture across the whole day.
+4. **No real company data in class.** Analysis practice uses invented sample
+   data; own-work tasks are described in general terms.
+5. **About three-quarters hands-on.** 83 minutes of lecture across the whole day.
 
 ## Design rules
 
@@ -75,5 +79,6 @@ Defaults, not decisions. Change them in
 - **One objective per module, observable by the end of that module.**
 - **The hardest material goes before lunch**; the most hands-on block comes
   right after it.
-- **Nothing confidential** goes into a tool, by participants or in examples.
+- **Business tasks, not AI features.** Every activity starts from work people
+  actually do, not from what the tool can do.
 - **Every handout fits on one page.**

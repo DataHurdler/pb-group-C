@@ -17,9 +17,9 @@ that worked; note what you'd change. Labs 03 and 04 build on it.
 | 1 | | _ / _ | |
 | 2 | | _ / _ | |
 
-## Claims I checked (Lab 03)
+## What my check caught (Lab 03)
 
-| Claim | Model's label | What I found | Source |
+| Track | What I checked (a number, a promise, a claim) | What I found | How I checked |
 | --- | --- | --- | --- |
-| | known / likely / guess | true / false / couldn't confirm | |
-| | known / likely / guess | true / false / couldn't confirm | |
+| | | correct / wrong / couldn't confirm | |
+| | | correct / wrong / couldn't confirm | |
