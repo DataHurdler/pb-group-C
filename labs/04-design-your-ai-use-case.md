@@ -81,13 +81,14 @@ more consistent?
 ### Instructor notes (remove from the participant copy)
 
 - **Expected output.** A canvas with a template of about 8–15 lines and 2–5
-  slots. Time-saved estimates are usually optimistic. Ask "Does that include
-  the time to check the output?"
+  slots. Expect optimistic time-saved estimates: in one controlled study,
+  developers expected a 24% speed-up and were measured 19% slower ([METR, 2025, *Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity*](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)).
+  Ask "Does that include the time to check the output?"
 - **Where people get stuck.** (a) Vague criteria: push for yes/no in step 3,
   it's the hinge of the lab. (b) Changing several things per round: ask
   "What did you change?" and wait. (c) A one-off task: ask "When will you do
   this again?" (d) The data box. Owners can decide their own policy; employees
-  often don't know theirs. "Find out" is a valid pilot step.
+  may not know theirs. "Find out" is a valid pilot step.
 - **Post canvases** to the shared document at the end of step 8.
 - **At 15:25,** call time and ask each pair to choose one canvas for a
   60-second pitch in the wrap-up.

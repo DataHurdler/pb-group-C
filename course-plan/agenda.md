@@ -24,7 +24,8 @@ Status: draft — timing set, content drafted; start time and venue to confirm
 on the same fictional small business
 ([labs/practice-case.md](../labs/practice-case.md)), so the debriefs compare
 *prompts*, not businesses. When every pair has the same input, differences in
-output come from the prompting, and the room can see that.
+output come from the prompting and from run-to-run variation, which Lab 01
+shows directly.
 
 **Afternoon: put it to work, on your own job.** In Module 03 participants pick
 the kind of business task closest to their work: analysis, communication, or
@@ -51,14 +52,17 @@ wrap-up buffer or the breaks.
 
 ## Why this shape
 
-- **Orientation is short.** Twenty minutes is enough to set expectations and
-  fix logins.
-- **The prompt brief sits at 10:35**, when attention is highest. Every
-  business task after lunch depends on it.
-- **The post-lunch block is the most hands-on** (80% activity), and
-  participants choose their track, which keeps energy up.
-- **The capstone ends in a plan, not just a prompt.** In a workplace, a
-  good prompt is only useful if you can say what it saves, what could go wrong,
-  and whether you're allowed to use it.
+These are design judgments, except where a source is cited.
+
+- **Orientation is short.** We allow twenty minutes to set expectations and
+  fix logins, and no more.
+- **The prompt brief sits at 10:35**, in the morning. Every business task
+  after lunch depends on it, and performance and alertness can dip in the
+  mid-afternoon ([Monk, 2005, *The post-lunch dip in performance*](https://pubmed.ncbi.nlm.nih.gov/15892914/)).
+- **The post-lunch block is the most hands-on** (80% activity), for the same
+  reason. Participants also choose their own track, to keep the work relevant.
+- **The capstone ends in a plan, not just a prompt.** Our view is that, at
+  work, a good prompt is only useful if you can say what it saves, what could
+  go wrong, and whether you're allowed to use it.
 - **Two breaks, roughly every 75–90 minutes of work.** Don't trade them for
   content time.

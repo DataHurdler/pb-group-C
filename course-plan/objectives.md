@@ -32,8 +32,9 @@ These aren't separate objectives. They're taught where they come up.
   sample data for this reason), and built into the Module 04 canvas.
 - **You're accountable for the output.** If it goes out under your name, you
   checked it. Module 03.
-- **Simulated isn't real.** AI-played customers or experts generate
-  hypotheses, not evidence. Module 03, innovation track.
+- **Simulated isn't real.** We treat AI-played customers or experts as a
+  source of hypotheses, not evidence. AI assistants tend to tell users what
+  they want to hear ([Sharma et al., 2024, *Towards Understanding Sycophancy in Language Models*](https://arxiv.org/abs/2310.13548)). Module 03, innovation track.
 - **Value is measurable.** A use case worth adopting saves time or improves
   quality in a way you can name. Module 04.
 

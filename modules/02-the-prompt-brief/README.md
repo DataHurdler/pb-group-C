@@ -15,13 +15,14 @@ which of these is missing from a weak prompt.
 Module 01 showed that context drives output. This module turns that into a
 repeatable habit: a six-part brief, the same thing you'd give a capable new
 hire on their first day. It's the core skill of the course. Modules 03 and 04
-assume it, so it sits at the time of day when attention is highest.
+assume it, so it sits in the morning, before the mid-afternoon dip in
+alertness ([Monk, 2005, *The post-lunch dip in performance*](https://pubmed.ncbi.nlm.nih.gov/15892914/)).
 
 ## Outline
 
 | Min | Segment | What happens | Who's talking |
 | --- | --- | --- | --- |
-| 0–5 | Hook | "You've hired a brilliant contractor who started this morning and knows nothing about your business. What would you tell them before asking for a pricing strategy?" Collect answers from the room; they will name most of the six parts | Instructor, room |
+| 0–5 | Hook | (The analogy is Anthropic's: "a brilliant but new employee who lacks context", [Anthropic, *Prompting best practices*](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices).) "You've hired a brilliant contractor who started this morning and knows nothing about your business. What would you tell them before asking for a pricing strategy?" Collect answers from the room; they will name most of the six parts | Instructor, room |
 | 5–25 | Teach | The six parts of the brief (below); one worked rebuild of a weak prompt about Loop Laundry, live; "let it interview you" | Instructor |
 | 25–60 | Activity | [Lab 02 — Rescue a Weak Prompt](../../labs/02-rescue-a-weak-prompt.md) | Pairs, then individually |
 | 60–75 | Debrief | Three pairs show weak vs. rebuilt; room names which part caused each improvement; quick poll on the role-line experiment | Pairs, then instructor |
@@ -39,9 +40,11 @@ assume it, so it sits at the time of day when attention is highest.
 
 Two points to make explicitly:
 
-- **"Act as a world-class expert" helps less than people think.** A role line
-  can set tone, but it can't supply facts the model doesn't have. Context and
-  format do most of the work. The Lab 02 early-finisher task tests this.
+- **"Act as a world-class expert" sets tone, not facts.** Anthropic's
+  guidance says a role focuses behavior and tone ([Anthropic, *Prompting best practices*](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices)). But a study of 162
+  personas on 2,410 factual questions found that adding a persona didn't
+  improve accuracy ([Zheng et al., 2024, *When "A Helpful Assistant" Is Not Really Helpful*](https://arxiv.org/abs/2311.10054)). A role line can't supply facts the model doesn't
+  have; context can. The Lab 02 early-finisher task lets pairs test this.
 - **You don't have to write the brief alone.** Ending with *"Ask me up to five
   questions before you answer"* makes the model find the gaps. It's the
   fastest fix for a prompt you're unsure about.
@@ -50,8 +53,10 @@ Two points to make explicitly:
 
 1. Brief it like a capable new hire: goal, context, audience, constraints,
    format, example.
-2. Weak output usually means a missing part. Diagnose before you rewrite.
-3. Format is the most often missing part, and the easiest to add.
+2. When output is weak, look for a missing part first. Diagnose before you
+   rewrite.
+3. Format is the easiest part to add. Be specific about the output you want
+   ([Anthropic, *Prompting best practices*](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices)).
 4. When in doubt, ask the model to interview you first.
 
 ## Materials
@@ -66,7 +71,7 @@ Two points to make explicitly:
 | Problem | Response |
 | --- | --- |
 | Prompts get very long and people worry that's wrong | Long is fine when every line is information. Cut adjectives, not facts |
-| "Isn't this just for ChatGPT?" | The brief works on every major assistant. Some tools respond better to some parts, but none ignore context |
+| "Isn't this just for ChatGPT?" | The brief is built on general principles, not one tool's features. Try it on two tools and compare |
 | Pairs rebuild prompt A (the easiest) | Fine, but ask them to try diagnosing C in the debrief |
 | Step 5 (own task) runs over into lunch | Stop at 11:50. Participants can finish v1 in the afternoon; Labs 03 and 04 build on it |
 
@@ -76,4 +81,4 @@ Two points to make explicitly:
    (saves ~5 min)
 2. Cut Lab 02 step 4 (interview) and demonstrate it in the debrief instead
    (saves 5 min)
-3. Don't cut into lunch. Attention ends at 11:50 whether you do or not
+3. Don't cut into lunch. Protect the break

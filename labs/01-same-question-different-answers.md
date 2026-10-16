@@ -80,10 +80,11 @@ about, and why?"* Does its self-assessment match your column sort in step 3?
 
 ### Instructor notes (remove from the participant copy)
 
-- **Expected output.** Step 1 gives a generic pros/cons list. Step 2 should
-  mention the $15k budget, no vehicle, no full-time hire, the 600 new units,
-  and the cannibalization worry. Step 3 often produces invented price ranges and
-  market sizes stated plainly, which is the moment to land the lesson.
+- **Likely output** (re-run before each offering; models change). Step 1 is
+  likely to give a generic pros/cons list. Step 2 should mention the $15k
+  budget, no vehicle, no full-time hire, the 600 new units, and the
+  cannibalization worry. Step 3 may produce invented price ranges and market
+  sizes stated plainly. If it does, that's the moment to land the lesson.
 - **Step 4 has no single answer key**, and that's the point. Defensible sorts:
   *good fit*: a, c, f, j, l; *use with care*: d (data sensitivity: is the
   contract confidential?), g (only if you can check it against the report), i

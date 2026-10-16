@@ -31,9 +31,8 @@ that make prompting a method rather than guesswork: **criteria first** and
 
 ### Four things to say in the brief
 
-1. **Pick a task, then the step.** AI rarely takes over a whole task. Map the
-   steps and choose where it saves the most time while you keep the
-   judgment calls.
+1. **Pick a task, then the step.** Map the steps and choose where AI saves
+   the most time while you keep the judgment calls.
 2. **Criteria first.** If you decide what "good" means after reading the
    output, you'll accept anything that reads well. Write yes/no checks before
    the first run.
@@ -41,6 +40,9 @@ that make prompting a method rather than guesswork: **criteria first** and
    better, but you won't know which change did it.
 4. **Count honestly.** Time saved is measured *after* checking the output. A
    use case that saves 20 minutes and needs 15 minutes of checking saves 5.
+   Perceived savings can be wrong: in one controlled study, experienced
+   developers expected AI to speed them up by 24%, were measured to take 19%
+   longer, and still believed afterwards that it had sped them up ([METR, 2025, *Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity*](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)).
 
 ## Key points
 
@@ -65,7 +67,7 @@ that make prompting a method rather than guesswork: **criteria first** and
 | Criteria are vague ("good", "professional") | "How would you check that in five seconds?" Rewrite as yes/no |
 | Changes several things per round | Ask "What did you change?" and wait. Then ask them to undo all but one |
 | Picks a one-off task | "When will you do this again?" If never, pick another |
-| Doesn't know their employer's AI policy | Normal. "Find out" goes in the pilot plan as step one |
+| Doesn't know their employer's AI policy | Fine. "Find out" goes in the pilot plan as step one |
 | Wildly optimistic time savings | "Does that include checking the output?" |
 | Owner-founders say the policy box doesn't apply | It does, in another form: what are you comfortable putting in this tool, and what would your clients expect? |
 

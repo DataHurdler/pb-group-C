@@ -28,8 +28,9 @@ to put into which tool. This isn't the place for content.
    paste it into an AI tool your organization hasn't approved for that data.
    If you don't know your employer's AI policy, finding out is a good first
    step. Today, describe your work in general terms.
-3. Everything today works on any major assistant, free tier included. Which
-   tool matters less than how you use it.
+3. Every exercise today is designed to work on any major assistant, free
+   tier included. You'll compare tools in Lab 01 and can judge for yourself
+   how much the choice matters.
 
 ## Materials
 
@@ -47,9 +48,9 @@ to put into which tool. This isn't the place for content.
 | --- | --- |
 | Late arrivals | Start at 9:00 anyway. Latecomers skip the pre-check; don't restart |
 | No AI account, or login fails | Pair them with someone whose tool works; fix it at the 10:20 break. Morning labs are in pairs, so nobody is blocked |
-| "I can't think of a task" | Hand them the fallback list. Everyone has a weekly chore |
+| "I can't think of a task" | Hand them the fallback list, and ask what they do every week |
 | "My company bans AI tools" | Today uses sample data and general descriptions, so nothing breaks the rule. Their capstone can be a proposal for an approved pilot |
-| "Which tool is best?" | "Whichever you have, or whichever your employer approves. We'll see differences in Lab 01, and they matter less than you'd expect" |
+| "Which tool is best?" | "Whichever you have, or whichever your employer approves. We'll compare them in Lab 01, and you can judge how much the difference matters" |
 
 ## If running behind
 

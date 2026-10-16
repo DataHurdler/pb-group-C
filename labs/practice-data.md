@@ -1,8 +1,8 @@
 # Practice Data — Loop Laundry
 
 *Invented sample material for Lab 03. Use this instead of real company data:
-in most workplaces, pasting real sales figures or customer emails into an
-unapproved AI tool is exactly what the data policy forbids.*
+pasting real sales figures or customer emails into an AI tool your
+organization hasn't approved can breach its data policy.*
 
 ## A. Monthly revenue, last 12 months (analysis track)
 

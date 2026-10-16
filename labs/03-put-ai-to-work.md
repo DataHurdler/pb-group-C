@@ -142,18 +142,18 @@ AI handle best, and which needed the most checking?
 
 - **Expected output, by track.**
   - **A:** Trends found: self-service down then recovering, wash-and-fold growing
-    steadily (+35% Nov→Oct), average order steady at about $28. Arithmetic
-    errors are common, especially on totals and percentages, which makes them
-    good teaching material. Watch for causal claims ("the new apartments
+    steadily (+35% Nov→Oct), average order steady at about $28. Check the
+    arithmetic carefully: model accuracy on math can be unreliable and can
+    change between versions ([Chen, Zaharia & Zou, 2024, *How Is ChatGPT's Behavior Changing over Time?*](https://doi.org/10.1162/99608f92.5317da47)). Any error is good teaching material. Watch for causal claims ("the new apartments
     caused…") that the data can't support.
-  - **B:** First drafts tend to over-apologize, sometimes promise "this will
-    never happen again" despite the constraint, or invent a compensation
-    amount. Step 5 should catch these.
+  - **B:** Watch for drafts that over-apologize, promise "this will never
+    happen again" despite the constraint, or invent a compensation amount.
+    Step 5 should catch these.
   - **C:** Step 2 tables with real variety; if all 12 look alike, the person
-    skipped "vary at least two". Step 5 confidence labels are often
-    overconfident.
-- **Track balance.** Expect most people in A or B. That's fine: they're the
-  most common workplace uses. If nobody picks C, mention it in the debrief as
+    skipped "vary at least two". Treat the step 5 confidence labels with
+    caution: LLMs tend to be overconfident when stating their confidence
+    ([Xiong et al., 2024, *Can LLMs Express Their Uncertainty?*](https://arxiv.org/abs/2306.13063)).
+- **Track balance.** If most people pick A or B, that's fine. If nobody picks C, mention it in the debrief as
   "for when you're developing something new".
 - **Free-tier message caps:** continue in a new chat by pasting the step 1
   material again.

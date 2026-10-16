@@ -38,8 +38,9 @@
 - [ ] One example use-case canvas filled in for Module 04 (Dana's weekly
       wash-and-fold summary)
 - [ ] Reminder sent, repeating the account sign-up request
-- [ ] Re-run the Module 01 hook prompt in two tools. Model behaviour changes
-      over time; make sure it still gives a generic answer worth showing
+- [ ] Re-run the Module 01 hook prompt and Lab 01 in two tools. Model
+      behaviour changes over time ([Chen, Zaharia & Zou, 2024, *How Is ChatGPT's Behavior Changing over Time?*](https://doi.org/10.1162/99608f92.5317da47)); make sure the hook still gives a
+      generic answer worth showing
 
 ## Day of — bring
 

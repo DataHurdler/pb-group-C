@@ -10,9 +10,9 @@ looking to work smarter with AI*
 
 ## Catalog copy
 
-AI assistants are already built into the tools many of us use every day, but
-most people use them for a few quick questions and stop when the answers come
-back generic or wrong. This one-day course shows you how to put AI to work on
+AI assistants are now built into everyday workplace software, including
+Microsoft 365 ([Microsoft Support, *Microsoft Copilot help and learning*](https://support.microsoft.com/en-us/copilot)) and Google Workspace ([Google, *AI Tools for Business*](https://workspace.google.com/solutions/ai/)). Getting consistently
+useful results from them is a skill, and it can be learned. This one-day course shows you how to put AI to work on
 real business tasks: analyzing information, writing for customers and
 colleagues, and developing and stress-testing ideas. It also covers how to
 decide where AI fits in your work, and where it doesn't.
@@ -47,7 +47,8 @@ anything confidential.
 
 - Not a technical course: no coding, APIs, model building, or automation
   platforms.
-- Not a buyer's guide to AI vendors. Everything taught works on any major chat
-  assistant, including free tiers.
+- Not a buyer's guide to AI vendors. Every exercise is designed to work on any
+  major chat assistant, including free tiers, and is tested on at least two
+  before the day.
 - Not legal or compliance training. We cover the questions to ask about data
   and policy, not the answers for your organization.

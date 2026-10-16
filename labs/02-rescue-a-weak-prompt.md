@@ -71,12 +71,14 @@ the output as much as adding context did?
 
 - **Expected diagnosis.** A is missing nearly everything. B has some context
   but no audience, no constraints (budget, no vehicle), and no format. C has a
-  role and enthusiasm but no goal, context, audience, or format. It's the most
-  common pattern in the wild, and the one to dwell on.
+  role and enthusiasm but no goal, context, audience, or format. It's the one
+  to dwell on.
 - **Where pairs get stuck.** Rebuilt prompts that paste the whole case but
   never say what output is wanted. Ask: "What should Dana be holding when this
   is done?"
-- **The early-finisher task** usually shows that the role line matters much less
-  than context and format. Collect one example for the debrief.
+- **The early-finisher task** lets pairs test the role line themselves.
+  Published evidence found personas didn't improve factual accuracy
+  ([Zheng et al., 2024, *When "A Helpful Assistant" Is Not Really Helpful*](https://arxiv.org/abs/2311.10054)), so expect little change in content and possibly some in tone.
+  Collect one example for the debrief.
 - **While circulating,** check that step 5 prompts are about a real task and
   contain nothing confidential.

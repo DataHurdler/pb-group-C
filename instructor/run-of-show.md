@@ -15,10 +15,10 @@ wins. Fix this file.
 | **9:20** | Module 01: live hook in two tools; four ideas | |
 | 9:40 | Lab 01 starts (30 min) | Step 3: listen for "it's wrong" vs. "it didn't know". Step 4: note disagreements for the debrief |
 | **10:20** | **Break (15).** Fix logins now | |
-| **10:35** | Module 02: hook, six parts, live rebuild. Hand out the reference sheet | Pace. This is where the day runs long |
+| **10:35** | Module 02: hook, six parts, live rebuild. Hand out the reference sheet | Pace. The densest module; watch the clock |
 | 11:00 | Lab 02 starts (35 min) | Pairs rebuilding without a format line |
 | **11:50** | **Lunch (60).** End on time even mid-debrief | |
-| **12:50** | Module 03: re-entry question; three kinds of business work | Low energy. Keep talk under 15 minutes |
+| **12:50** | Module 03: re-entry question; three kinds of business work | Expect lower energy after lunch. Keep talk under 15 minutes |
 | 13:05 | Lab 03 starts: track choice (50 min) | Real company data being pasted; Track A math errors worth sharing |
 | **14:05** | **Break (15).** Put the capstone brief and canvases out | |
 | **14:20** | Module 04: four points, example canvas (10 min) | |
